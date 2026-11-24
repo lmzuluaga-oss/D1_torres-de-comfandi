@@ -1,0 +1,1 @@
+<img src="IMG_0591.jpeg" alt="Góndolas y pasillos de la tienda D1" loading="eager" fetchpriority="high">
